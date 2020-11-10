@@ -1,0 +1,33 @@
+_repo: A-Tale-of-Old-Japan_63530
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Riches, Kate
+    gutenberg_agent_id: '52495'
+    url: http://www.gutenberg.org/2009/agents/52495
+creator:
+  author:
+    agent_name: Noyes, Alfred
+    birthdate: 1880
+    deathdate: 1958
+    gutenberg_agent_id: '2093'
+    url: http://www.gutenberg.org/2009/agents/2093
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Noyes
+description: '[R]eprinted from the ''Collected Poems'' by Alfred Noyes (Vol. II.,
+  p. 308), where it is entitled "The Two Painters: A Tale of Old Japan."'
+gutenberg_issued: '2020-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Poetry'
+- !lcsh 'Artists -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Japan -- Poetry'
+- GITenberg
+title: A Tale of Old Japan
+url: http://www.gutenberg.org/ebooks/63530
