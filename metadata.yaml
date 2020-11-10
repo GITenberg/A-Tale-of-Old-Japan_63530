@@ -5,6 +5,9 @@ contributor:
     agent_name: Riches, Kate
     gutenberg_agent_id: '52495'
     url: http://www.gutenberg.org/2009/agents/52495
+covers:
+- cover_type: archival
+  image_path: 63530-h/images/cover.jpg
 creator:
   author:
     agent_name: Noyes, Alfred
@@ -15,6 +18,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Noyes
 description: '[R]eprinted from the ''Collected Poems'' by Alfred Noyes (Vol. II.,
   p. 308), where it is entitled "The Two Painters: A Tale of Old Japan."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63530#A-Tale-of-Old-Japan
 gutenberg_issued: '2020-10-23'
 gutenberg_type: Text
 identifiers:
